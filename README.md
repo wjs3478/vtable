@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# vtable
-=======
-# vuetable
 
-> A Vue.js project
+# vuetable
 
 ## Build Setup
 
